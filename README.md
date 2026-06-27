@@ -34,4 +34,4 @@ Analysed survey data using SQL to uncover customer preferences, market trends, b
 
 👤 Author
 Ankush Patil 
-Open to opportunities in "Data Analytics | Business Intelligence"
+- Open to opportunities in "Data Analytics | Business Intelligence"
