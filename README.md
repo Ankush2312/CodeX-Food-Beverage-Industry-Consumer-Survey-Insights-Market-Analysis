@@ -20,18 +20,18 @@ Analysed survey data using SQL to uncover customer preferences, market trends, b
 - Which cities require stronger market penetration?
 
 🔍 Key Insights
-- Brand reputation and taste were major purchase drivers  
-- Online advertising delivered maximum customer reach  
-- Supermarkets emerged as the primary purchase channel  
-- Sports and productivity were top consumption occasions  
-- ₹50–₹99 was the preferred price segment  
+- Brand reputation and taste were major purchase drivers.  
+- Online advertising delivered maximum customer reach. 
+- Supermarkets emerged as the primary purchase channel. 
+- Sports and productivity were top consumption occasions. 
+- ₹50–₹99 was the preferred price segment. 
 
 🚀 Business Recommendations
-- Increase digital marketing investment  
-- Improve product availability  
-- Strengthen brand positioning  
-- Focus on fitness and productivity-based campaigns  
+- Increase digital marketing investment. 
+- Improve product availability. 
+- Strengthen brand positioning. 
+- Focus on fitness and productivity-based campaigns. 
 
 👤 Author
-Ankush Patil 
+- Ankush Patil 
 - Open to opportunities in "Data Analytics | Business Intelligence"
